@@ -1,0 +1,8 @@
+{
+  "name": "HMIS Discharge Summary Sync Portal",
+  "description": "An interactive integration gateway that simulates connecting a Hospital HMIS to real-time Webhook hooks, using Gemini API to instantly parse raw clinical discharge summaries into structured FHIR-like EHR patient medical records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
